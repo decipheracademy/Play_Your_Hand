@@ -1,0 +1,1 @@
+{"name":"sunstone-island","private":true,"type":"module","scripts":{"test":"node tests/permutations.mjs && node tests/navigation.mjs"}}
